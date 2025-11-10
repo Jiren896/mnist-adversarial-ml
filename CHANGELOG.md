@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Complete documentation (report, README, presentation)
 - Fixed seed for reproducibility (seed=42)
 - Full results in JSON format
+- Removed unneccessary cells on the main notebook
 
 ### Results
 - Baseline robust accuracy (epsilon=8/255): 24.12%
@@ -24,9 +25,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Clean accuracy trade-off: -1.56%
 
 ### Documentation
-- 2-3 page experiment report (Markdown + TXT)
+- Experiment reports
 - Comprehensive README with installation instructions
-- 10-slide presentation outline
 - Results summary tables
 - APA-style references
 
