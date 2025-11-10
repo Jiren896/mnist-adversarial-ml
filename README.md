@@ -214,6 +214,18 @@ All plots are automatically saved to `results/` directory:
 6. **`training_comparison.png`** - Training time and clean accuracy comparison
 7. **`final_robustness_comparison.png`** - Publication-quality combined plot (300 DPI)
 
+### Adversarial Examples
+![Adversarial Examples](results/adversarial_examples_fgsm.png)
+*FGSM adversarial examples showing imperceptible perturbations that fool the classifier*
+
+### Defense Effectiveness
+![Defense Comparison](results/final_robustness_comparison.png)
+*Comparison of baseline vs defended model showing significant robustness improvement*
+
+### Training Progress
+![Training Curves](results/baseline_training_curves.png)
+*Baseline model training showing convergence to 98%+ accuracy*
+
 ---
 
 ## Model Architecture
