@@ -22,7 +22,7 @@
     "metadata": {
         "model": "Baseline CNN",
         "attack": "FGSM",
-        "evaluation_time_seconds": 17.394460439682007,
-        "timestamp": "2025-11-10 20:46:22"
+        "evaluation_time_seconds": 17.174537658691406,
+        "timestamp": "2025-11-11 13:55:40"
     }
 }

@@ -22,7 +22,7 @@
     "metadata": {
         "model": "Defended CNN (FGSM Adversarial Training)",
         "attack": "FGSM",
-        "evaluation_time_seconds": 17.59787106513977,
-        "timestamp": "2025-11-10 20:53:11"
+        "evaluation_time_seconds": 25.458584547042847,
+        "timestamp": "2025-11-11 14:02:05"
     }
 }

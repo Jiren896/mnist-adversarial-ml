@@ -13,7 +13,7 @@ Learning Rate                  | 0.01                 | 0.01
 Batch Size                     | 128                  | 128                 
 Defense Method                 | None                 | FGSM Adv. Training  
 Training epsilon               | N/A                  | 0.0314 (8/255)      
-Training Time                  | 8m 35s               | 6m 29s              
+Training Time                  | 4m 48s               | 5m 57s              
 
 
 TABLE 2: CLEAN ACCURACY RESULTS
@@ -36,10 +36,10 @@ TABLE 4: COMPUTATIONAL COST ANALYSIS
 
 Metric                         | Baseline             | Defended             | Ratio          
 ------------------------------------------------------------------------------------------
-Total Training Time            | 8m 35s               | 6m 29s               | 0.76x
-Time per Epoch                 | 1m 43s               | 48.7s                | 0.47x
+Total Training Time            | 4m 48s               | 5m 57s               | 1.24x
+Time per Epoch                 | 57.6s                | 44.7s                | 0.78x
 Number of Epochs               | 5                    | 8                    | 1.60x
 Inference Time                 | ~Same                | ~Same                | 1.00x          
 
 
-Generated: 2025-11-10 20:53:12
+Generated: 2025-11-11 14:02:06
